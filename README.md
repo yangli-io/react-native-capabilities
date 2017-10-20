@@ -10,3 +10,4 @@ Below is a table of native functionalities that can be done with React Native
 | Device Storage | [Yes](https://facebook.github.io/react-native/docs/asyncstorage.html) | [Yes](https://facebook.github.io/react-native/docs/asyncstorage.html) |
 | Geolocation | [Yes](https://facebook.github.io/react-native/docs/geolocation.html) | [Yes](https://facebook.github.io/react-native/docs/geolocation.html) |
 | Clipboard | [Yes](https://facebook.github.io/react-native/docs/clipboard.html) | [Yes](https://facebook.github.io/react-native/docs/clipboard.html) |
+| Camera Roll | [Yes](https://facebook.github.io/react-native/docs/cameraroll.html) | [Yes](https://facebook.github.io/react-native/docs/cameraroll.html) |
