@@ -21,6 +21,13 @@ Below is a table of native functionalities that can be done with React Native
 | Webviews | [Yes](https://facebook.github.io/react-native/docs/webview.html) | [Yes](https://facebook.github.io/react-native/docs/webview.html) |
 | Background Geolocation | [Yes](https://github.com/transistorsoft/react-native-background-geolocation) | [Yes](https://github.com/transistorsoft/react-native-background-geolocation) | Android module requires purchasing licence |
 | Map | [Yes](https://github.com/airbnb/react-native-maps) | [Yes](https://github.com/airbnb/react-native-maps) | Maintained and used by Airbnb, hence extremely good support |
+| Audio | [Yes](https://github.com/jsierles/react-native-audio) | [Yes](https://github.com/jsierles/react-native-audio) |
+| 3D Touch | [Yes](https://github.com/madriska/react-native-quick-actions) | [Yes](https://github.com/madriska/react-native-quick-actions) |
+| Facebook | [Yes](https://github.com/facebook/react-native-fbsdk) | [Yes](https://github.com/facebook/react-native-fbsdk) |
+| Bluetooth | [Yes](https://github.com/Polidea/react-native-ble-plx) | [Yes](https://github.com/Polidea/react-native-ble-plx) |
+| In App Purcase | [Yes](https://github.com/idehub/react-native-billing) | [Yes](https://github.com/chirag04/react-native-in-app-utils) |
+| QR Scanner | [Yes](https://github.com/lwansbrough/react-native-camera) | [Yes](https://github.com/lwansbrough/react-native-camera) |
+| SMS | [Yes](https://github.com/anarchicknight/react-native-communications) | [Yes](https://github.com/anarchicknight/react-native-communications)
 
 ---
 
