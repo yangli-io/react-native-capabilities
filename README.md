@@ -1,5 +1,7 @@
 # react-native-capabilities
 
+It's important to understand that with React Native, anything native can be bridged with Javascript APIs. Hence, react native can do basically anything that is native, however, if it is not a common usage it might require manual work.
+
 Below is a table of native functionalities that can be done with React Native
 
 | Native functionality | Android | iOS | Comments |
@@ -11,3 +13,11 @@ Below is a table of native functionalities that can be done with React Native
 | Geolocation | [Yes](https://facebook.github.io/react-native/docs/geolocation.html) | [Yes](https://facebook.github.io/react-native/docs/geolocation.html) |
 | Clipboard | [Yes](https://facebook.github.io/react-native/docs/clipboard.html) | [Yes](https://facebook.github.io/react-native/docs/clipboard.html) |
 | Camera Roll | [Yes](https://facebook.github.io/react-native/docs/cameraroll.html) | [Yes](https://facebook.github.io/react-native/docs/cameraroll.html) |
+| [NFC](https://en.wikipedia.org/wiki/Near-field_communication) | [Yes](https://github.com/Novadart/react-native-nfc) | [Yes](https://github.com/Novadart/react-native-nfc) | Not very strong support, but the support is there |
+| Google Analytics | [Yes](https://github.com/idehub/react-native-google-analytics-bridge) | [Yes](https://github.com/idehub/react-native-google-analytics-bridge) |
+| Touch ID | [Yes](https://github.com/naoufal/react-native-touch-id) | [Yes](https://github.com/naoufal/react-native-touch-id) 
+| Camera | [Yes](https://github.com/lwansbrough/react-native-camera) | [Yes](https://github.com/lwansbrough/react-native-camera) |
+| Barcode Scanner | [Yes](https://github.com/lwansbrough/react-native-camera) | [Yes](https://github.com/lwansbrough/react-native-camera) |
+| Webviews | [Yes](https://facebook.github.io/react-native/docs/webview.html) | [Yes](https://facebook.github.io/react-native/docs/webview.html) |
+| Background Geolocation | [Yes](https://github.com/transistorsoft/react-native-background-geolocation) | [Yes](https://github.com/transistorsoft/react-native-background-geolocation) | Android module requires purchasing licence
+
