@@ -1,4 +1,4 @@
-# react-native-capabilities
+# React Native Capabilities
 
 It's important to understand that with React Native, anything native can be bridged with Javascript APIs. Hence, react native can do basically anything that is native, however, if it is not a common usage it might require manual work.
 
@@ -19,5 +19,17 @@ Below is a table of native functionalities that can be done with React Native
 | Camera | [Yes](https://github.com/lwansbrough/react-native-camera) | [Yes](https://github.com/lwansbrough/react-native-camera) |
 | Barcode Scanner | [Yes](https://github.com/lwansbrough/react-native-camera) | [Yes](https://github.com/lwansbrough/react-native-camera) |
 | Webviews | [Yes](https://facebook.github.io/react-native/docs/webview.html) | [Yes](https://facebook.github.io/react-native/docs/webview.html) |
-| Background Geolocation | [Yes](https://github.com/transistorsoft/react-native-background-geolocation) | [Yes](https://github.com/transistorsoft/react-native-background-geolocation) | Android module requires purchasing licence
+| Background Geolocation | [Yes](https://github.com/transistorsoft/react-native-background-geolocation) | [Yes](https://github.com/transistorsoft/react-native-background-geolocation) | Android module requires purchasing licence |
+| Map | [Yes](https://github.com/airbnb/react-native-maps) | [Yes](https://github.com/airbnb/react-native-maps) | Maintained and used by Airbnb, hence extremely good support |
+
+Below is a table of functionalities unique to React Native
+| Functionality | Description |
+| ------------- | ----------- |
+| [Expo](https://expo.io/) | Fast development environment with hot reloading, easy deployment to multiple devices. |
+| [Chrometools](https://facebook.github.io/react-native/docs/debugging.html) | Connection to chrometools to use the connect to your favour tools on Google Chrome |
+| [SVG](https://github.com/react-native-community/react-native-svg) | Easily use svg |
+| [Autoupdater](https://github.com/redbooth/react-native-auto-updater) | Update your app without uploading a new version on the app store (This may have some limitations for certain apps due to app store policies) |
+| [React Web](https://github.com/necolas/react-native-web) | To share some react native view components code with the web |
+
+
 
