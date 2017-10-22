@@ -23,6 +23,7 @@ Below is a table of native functionalities that can be done with React Native
 | Map | [Yes](https://github.com/airbnb/react-native-maps) | [Yes](https://github.com/airbnb/react-native-maps) | Maintained and used by Airbnb, hence extremely good support |
 
 Below is a table of functionalities unique to React Native
+
 | Functionality | Description |
 | ------------- | ----------- |
 | [Expo](https://expo.io/) | Fast development environment with hot reloading, easy deployment to multiple devices. |
