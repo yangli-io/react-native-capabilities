@@ -22,6 +22,8 @@ Below is a table of native functionalities that can be done with React Native
 | Background Geolocation | [Yes](https://github.com/transistorsoft/react-native-background-geolocation) | [Yes](https://github.com/transistorsoft/react-native-background-geolocation) | Android module requires purchasing licence |
 | Map | [Yes](https://github.com/airbnb/react-native-maps) | [Yes](https://github.com/airbnb/react-native-maps) | Maintained and used by Airbnb, hence extremely good support |
 
+---
+
 Below is a table of functionalities unique to React Native
 
 | Functionality | Description |
